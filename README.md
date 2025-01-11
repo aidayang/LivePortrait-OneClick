@@ -6,6 +6,8 @@ LivePortrait是一个非常强大的图片转视频应用，可以实现人物�
 
 将网盘内的最新版20250101版压缩包下载到电脑上解压。软件支持人像模式和动物模式，我制作了两个启动程序，需要处理人像还是动物启动对应软件即可。双击运行启动软件后，稍等片刻会打开webUI界面。
 
+视频教程：[youtube](https://www.youtube.com/watch?v=Hu4GDziGPtM)
+
 软件常见问题说明：[https://nuowa.net/1607](https://nuowa.net/1607)
 
 ## LivePortrait一键启动整合包下载链接
