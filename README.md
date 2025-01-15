@@ -1,6 +1,6 @@
 # LivePortrait-OneClick
 
-LivePortrait是一个非常强大的图片转视频应用，可以实现人物表情转移，也可以将人物表情转移到动物图片，非常有可玩性。为了方便大家快速上手体验这个应用，我制作了最新版Windows版一键启动整合包。
+LivePortrait是一个非常强大的图片转视频应用，可以实现人物表情转移，也可以将人物表情转移到动物图片，非常有可玩性。为了方便大家快速上手体验这个应用，省去安装部署耗时，我制作了最新版Windows版一键启动整合包。
 
 ## LivePortrait整合包使用说明
 
@@ -8,7 +8,6 @@ LivePortrait是一个非常强大的图片转视频应用，可以实现人物�
 
 视频教程：[youtube](https://www.youtube.com/watch?v=Hu4GDziGPtM)
 
-软件常见问题说明：[https://nuowa.net/1607](https://nuowa.net/1607)
 
 ## LivePortrait一键启动整合包下载链接
 
